@@ -17,4 +17,4 @@ Hampus - Student
 Interesting: I like how easy it is to create some truly Cursed C programs.
 
 Martin
-Interesting: 
+Interesting: Learning about C is cool
