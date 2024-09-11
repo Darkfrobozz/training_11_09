@@ -9,3 +9,6 @@ Hej från Mig!
 
 Vilja :)
 Interesting: tycker pekare har varit kul att leka runt med
+
+Hampus - Student
+Interesting: I like how easy it is to create some truly Cursed C programs.
