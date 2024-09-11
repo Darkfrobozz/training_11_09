@@ -5,6 +5,8 @@ Valle - Coach, Communist, Coder
 Interesting: I think the coolest concept so far is probably the random function and I think it would be cool
 to explore that a bit more.
 
+Benjamin - Student
+I think IOOPM is a fun but challenging course:)
 Hej från Mig! Hugo:
 Interesting: I like copilot!!
 
