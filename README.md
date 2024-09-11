@@ -15,3 +15,6 @@ Interesting: Want to learn more about "proper tail calls" and why they ofter are
 
 Hampus - Student
 Interesting: I like how easy it is to create some truly Cursed C programs.
+
+Martin
+Interesting: 
