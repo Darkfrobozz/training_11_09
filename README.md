@@ -19,3 +19,6 @@ Interesting: I like how easy it is to create some truly Cursed C programs.
 
 Martin
 Interesting: Learning about C is cool
+
+Mazin 
+Interesting: Coding is fun
