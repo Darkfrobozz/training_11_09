@@ -22,3 +22,6 @@ Interesting: Learning about C is cool
 
 Mazin 
 Interesting: Coding is fun
+
+Frans
+Äntligen inne!
