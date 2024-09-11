@@ -13,3 +13,5 @@ Interesting: tycker pekare har varit kul att leka runt med
 Albin
 Interesting: Want to learn more about "proper tail calls" and why they ofter are not required in the language definition of multi-paradigm languages.
 
+Hampus - Student
+Interesting: I like how easy it is to create some truly Cursed C programs.
