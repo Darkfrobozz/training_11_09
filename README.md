@@ -7,3 +7,20 @@ to explore that a bit more.
 
 Benjamin - Student
 I think IOOPM is a fun but challenging course:)
+Hej från Mig! Hugo:
+Interesting: I like copilot!!
+
+Vilja :)
+Interesting: tycker pekare har varit kul att leka runt med
+
+Albin
+Interesting: Want to learn more about "proper tail calls" and why they ofter are not required in the language definition of multi-paradigm languages.
+
+Hampus - Student
+Interesting: I like how easy it is to create some truly Cursed C programs.
+
+Martin
+Interesting: Learning about C is cool
+
+Mazin 
+Interesting: Coding is fun
