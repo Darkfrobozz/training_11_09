@@ -4,3 +4,6 @@ Mini-project - multi-purpose as recording of something interesting, get eachothe
 Valle - Coach, Communist, Coder
 Interesting: I think the coolest concept so far is probably the random function and I think it would be cool
 to explore that a bit more.
+
+Albin
+Interesting: Want to learn more about "proper tail calls" and why they ofter are not required in the language definition of multi-paradigm languages.
